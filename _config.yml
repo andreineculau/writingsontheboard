@@ -1,9 +1,6 @@
 title: Writings on the Board
 description: '"Writings on the Board" is a collection of (in)evitable Whys.'
 theme: just-the-docs
-repository: ysoftwareab/writingsontheboard
+repository: andreineculau/writingsontheboard
 
-url: https://ysoftwareab.github.io/writingsontheboard
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://andreineculau.github.io/writingsontheboard
