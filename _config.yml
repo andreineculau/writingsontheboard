@@ -20,6 +20,7 @@ plugins:
   - jekyll-seo-tag
 
 logo: assets/images/logo.webp
+favicon_ico: assets/images/logo.ico
 mermaid:
   version: 11.12.3
   path: /assets/js/mermaid.esm.min.mjs
