@@ -46,3 +46,8 @@ maintainable, reliable and cohesive blocks. While they don't guarantee it, they 
 possible to build high-quality.
 
 💡 And **DataIsSoftware** well before **DataIsProduct** .
+
+---
+
+Alternative posts:
+* https://www.linkedin.com/feed/update/urn:li:activity:7244023042648010753/
