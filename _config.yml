@@ -3,8 +3,8 @@ description: '"Writings on the Board" is a collection of (in)evitable Whys.'
 theme: just-the-docs
 repository: andreineculau/writingsontheboard
 
-url: https://andreineculau.github.io/writingsontheboard
-baseurl: /writingsontheboard/
+url: https://andreineculau.github.io/writingsontheboard/
+baseurl: /writingsontheboard
 
 # permalink: pretty
 heading_anchors: true
