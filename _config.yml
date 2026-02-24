@@ -4,6 +4,7 @@ theme: just-the-docs
 repository: andreineculau/writingsontheboard
 
 url: https://andreineculau.github.io/writingsontheboard
+baseurl: /writingsontheboard/
 
 # permalink: pretty
 heading_anchors: true
